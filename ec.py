@@ -33,8 +33,8 @@ def encrypt(key):
         g.task_done()
 
 # socket information
-IP_address = '192.168.56.1'
-PORT = 4444
+IP_address = 'YOUR IP'
+PORT = YOUR PORT
 
 # Encryption Information
 
